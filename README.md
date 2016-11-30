@@ -1,2 +1,6 @@
 # con-pcie-x4
-PCIe x4 edge which for some reason doesn't exist anywhere...
+
+EAGLE CAD PCI Express x4 Edge
+Which for some reason doesn't exist anywhere...
+
+
