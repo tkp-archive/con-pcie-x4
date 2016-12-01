@@ -55,13 +55,8 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 </layers>
 <library>
-<description>PCI-Express 16x  connectors, 164 contacts  (2*82)
-Included: Trough-hole connector and edge-card pattern
-
-Manufacturer: FCI  Reference: 10018783-10113TLF
-
-Reference Radiospares: 615-9530 
-Reference Digikey: 609-1975-ND</description>
+<description>PCI-Express 4x  connectors, 64 contacts  (2*32)
+</description>
 <packages>
 <package name="PCIEX4">
 <wire x1="-31.96" y1="1.35" x2="-31.96" y2="6.75" width="0.07" layer="21"/>
